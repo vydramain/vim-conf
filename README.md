@@ -6,7 +6,7 @@ My personal vim configuration for easy setup
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
 - [Syntastic](https://github.com/vim-syntastic/syntastic)
 - [NERDTree](https://github.com/vim-syntastic/syntastic)
-- [octol/vim-cpp-enhanced-highlight](octol/vim-cpp-enhanced-highlight)
+- [vim-cpp-enhanced-highlight](https://github.com/octol/vim-cpp-enhanced-highlight)
 
 ## For start
 You need install clone all these repositories to you packages directory. (in my case it is `~/.vim/bundle`)
