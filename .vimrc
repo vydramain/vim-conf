@@ -68,8 +68,11 @@ Plugin 'vim-syntastic/syntastic'
 " quickly open files for reading or editing, and perform basic 
 Plugin  'preservim/nerdtree'
 
-" Don't work...
-Plugin 'octol/vim-cpp-enhanced-highlight'
+" A light and configurable statusline/tabline plugin for Vim. Thinks: Yet another clone of powerline?
+" + [vim-powerline](https://github.com/Lokaltog/vim-powerline) is a nice plugin, but deprecated.
+" + [powerline](https://github.com/powerline/powerline) is a nice plugin, but difficult to configure.
+" + [vim-airline](https://github.com/vim-airline/vim-airline) is a nice plugin, but it uses too many functions of other plugins, which should be done by users in `.vimrc`.
+Plugin 'itchyny/lightline.vim'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
