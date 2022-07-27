@@ -6,7 +6,7 @@ My personal vim configuration for easy setup
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
 - [Syntastic](https://github.com/vim-syntastic/syntastic)
 - [NERDTree](https://github.com/vim-syntastic/syntastic)
-- [vim-cpp-enhanced-highlight](https://github.com/octol/vim-cpp-enhanced-highlight)
+- [LightLine](https://github.com/itchyny/lightline.vim)
 
 ## For start
 You need install clone all these repositories to you packages directory. (in my case it is `~/.vim/bundle`)
