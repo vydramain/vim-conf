@@ -37,10 +37,6 @@ set backspace=indent,eol,start	" Backspace behaviour
 highlight Cursor guifg=white guibg=black
 highlight lCursor guifg=white guibg=steelblue
 
-" packadd! dracula
-syntax on 
-colorscheme slate
-
 " Better tab experience - from https://webdevetc.com/
 " map <leader>tn :tabnew<cr>
 " map <leader>t<leader> :tabnext
@@ -121,4 +117,9 @@ nnoremap <C-f> :NERDTreeFind<CR>
 
 highlight Cursor guifg=white guibg=black
 highlight iCursor guifg=white guibg=steelblue
+
+syntax on 
+" Standard colorscheme is not comfortable for eyes
+" colorscheme slate
+colorscheme jellybeans
 
