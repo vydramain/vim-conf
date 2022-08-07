@@ -7,6 +7,8 @@ My personal vim configuration for easy setup
 - [Syntastic](https://github.com/vim-syntastic/syntastic)
 - [NERDTree](https://github.com/vim-syntastic/syntastic)
 - [LightLine](https://github.com/itchyny/lightline.vim)
+- [vim-cpp-enhanced-highlight](https://github.com/octol/vim-cpp-enhanced-highlight)
+- [jellybeans.vim](https://github.com/nanotech/jellybeans.vim)
 
 ## For start
 You need install clone all these repositories to you packages directory. (in my case it is `~/.vim/bundle`)
