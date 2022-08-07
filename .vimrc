@@ -82,6 +82,12 @@ Plugin  'preservim/nerdtree'
 " + [vim-airline](https://github.com/vim-airline/vim-airline) is a nice plugin, but it uses too many functions of other plugins, which should be done by users in `.vimrc`.
 Plugin 'itchyny/lightline.vim'
 
+" Don't work...
+Plugin 'octol/vim-cpp-enhanced-highlight'
+
+" Colorscheme standard is not comfortable
+Plugin 'nanotech/jellybeans.vim'
+
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
 filetype plugin indent on    " required
